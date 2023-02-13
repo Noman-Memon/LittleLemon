@@ -5,3 +5,6 @@ web application
     /api/menu/<int:pk>
     /api/booking/
     /api-token-auth/
+
+admin
+admin@123
